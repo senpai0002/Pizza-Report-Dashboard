@@ -1,7 +1,5 @@
 # Pizza-Report-Dashboard
 
-# Pizza-Report-Dashboard
-
 # 🍕 Pizza Sales Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
@@ -22,10 +20,10 @@ All visuals update instantly when filters are applied, making the dashboard dyna
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
-- **Average Pizza per Order:** 2.32  
-- **Total Orders:** 21,350  
-- **Total Pizzas Sold:** 49,574  
-- **Total Revenue:** $817,860.05  
+- **Average Pizza per Order** 
+- **Total Orders**   
+- **Total Pizzas Sold**
+- **Total Revenue** 
 
 ---
 
